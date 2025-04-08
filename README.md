@@ -21,6 +21,11 @@ You can see a live demo of the project here:
 
 [Live Demo](https://itsmepraksh.github.io/Instagram-Suggested-For-You/)
 
+## ⭐️ Give Us a Star
+If you found this project useful, please ⭐️ **Give Us a Star** on GitHub! Your support helps us improve and create more awesome projects.  
+
+[![Star Badge](https://img.shields.io/github/stars/itsmepraksh/Instagram-Suggested-For-You?style=social)](https://github.com/itsmepraksh/Instagram-Suggested-For-You/stargazers) 
+
 ## Getting Started
 
 To get a copy of this project running locally, follow these steps:
